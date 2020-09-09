@@ -1,4 +1,4 @@
 Hi! My name is Rohit Arunachalam and I am a first-year computer science major at
 Georgia Tech. I've dual enrolled at Tech for the last two years, so I'm familiar
 with the online teaching system. In my free time, I like to play soccer and hang
-out with my friends. My recitation section is O1R.
+out with my friends. My recitation section is O1R. I am editing this file now as part of a Git tutorial. 
