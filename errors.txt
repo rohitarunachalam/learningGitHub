@@ -1,0 +1,8 @@
+Bad1.java's error was a compile time error since program was named Bad1 and the
+class was named BAD1 which isn't the same because java is case sensitive.
+
+Bad2.java's error was a runtime error since Line 6 attempts to divide by zero
+which is illegal, but syntactically correct.
+
+Bad3.java's error was a compile time error, because it attempted to initialize a
+string by assigning it a char value which is illegal.
